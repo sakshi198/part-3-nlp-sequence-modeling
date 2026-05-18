@@ -1,0 +1,40 @@
+Sample 1
+Actual Label: positive
+Predicted Label: positive
+----------------------------------------
+Sample 2
+Actual Label: positive
+Predicted Label: positive
+----------------------------------------
+Sample 3
+Actual Label: negative
+Predicted Label: negative
+----------------------------------------
+Sample 4
+Actual Label: negative
+Predicted Label: negative
+----------------------------------------
+Sample 5
+Actual Label: positive
+Predicted Label: positive
+----------------------------------------
+Sample 6
+Actual Label: neutral
+Predicted Label: neutral
+----------------------------------------
+Sample 7
+Actual Label: positive
+Predicted Label: positive
+----------------------------------------
+Sample 8
+Actual Label: positive
+Predicted Label: positive
+----------------------------------------
+Sample 9
+Actual Label: neutral
+Predicted Label: neutral
+----------------------------------------
+Sample 10
+Actual Label: neutral
+Predicted Label: neutral
+----------------------------------------
